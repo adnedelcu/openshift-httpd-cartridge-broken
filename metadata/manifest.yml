@@ -1,11 +1,11 @@
-Name: httpd
-Cartridge-Short-Name: HTTPD
-Display-Name: HTTPD Cartridge
-Source-Url: https://github.com/changeme/
-Description: "A httpd cartridge for development use only."
+Name: mediawiki
+Cartridge-Short-Name: MWIKI
+Display-Name: Media Wiki Cartridge
+Source-Url: https://github.com/adnedelcu/openshift-httpd-cartridge-broken.git
+Description: "A media cartridge for development use only."
 Version: '0.1'
 License: "None"
-Vendor: Custom Cartridges INC
+Vendor: ADN Root
 Cartridge-Version: 0.0.1
 Categories:
   - service
