@@ -2,6 +2,7 @@ Name: mediawiki
 Cartridge-Short-Name: MWIKI
 Display-Name: Media Wiki Cartridge
 Source-Url: https://github.com/adnedelcu/openshift-httpd-cartridge-broken.git
+Cartridge-Vendor: adnroot
 Description: "A media cartridge for development use only."
 Version: '0.1'
 License: "None"
